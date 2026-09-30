@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Instagram Focus Mode</string>
+    <string name="accessibility_description">Restricts Instagram scrolling and hides selected content.</string>
+</resources>
